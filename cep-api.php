@@ -1,4 +1,4 @@
 <?php
 
 
-echo 'CEP API';
+echo 'CEP API 2';
