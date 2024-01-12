@@ -6,3 +6,6 @@ print("Print para testar o commit 1.1");
 
 
 echo '<img src="imgs/casa.jpeg">';
+
+
+echo 'novo modulo destaque';
